@@ -1,0 +1,55 @@
+<h2> Hi, I'm Amir Hamza</h2>
+<img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=mr-vill4in&show_icons=true&theme=radical" width="380">
+<p><em>  H4cker & Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
+   I Love hacking for world more secure. <3
+  </em></p>
+
+<br>
+
+
+### More about me...
+```go
+package main
+
+type Me struct{
+  Pronouns string
+  Code string
+  Job string
+  BestAndFavoriteSkill string
+}
+
+func main(){
+  me := &Me{
+    Job: " Red team that aims for a purple team.",
+    Pronouns: "He/Him",
+    Code: "Solidity, Go and Python and Everythings",
+    BestAndFavoriteSkill: "Smart contract Security, Web Hacking :D"
+  }
+  _ = me
+}
+```
+
+   
+   <p align="center">
+<img src="https://komarev.com/ghpvc/?username=mr-vill4in&label=Views&color=lightgrey&style=flat-square" alt="mr-vill4in" /> 
+ <img src="https://github-profile-trophy.vercel.app/?username=mr-vill4in&theme=flat" alt="mr-vill4in" />
+</p>
+
+<p align="center">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vill4in&layout=compact&langs_count=8&theme=omni&hide_border=true" />
+</a>
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-vill4in&theme=omni&hide_border=true" alt="mr-vill4in" />
+</p>
+
+
+[![](https://img.shields.io/twitter/follow/mr_vill4in?color=gray&logo=twitter&label=%40tamjid0x01&style=flat)](https://twitter.com/tamjid0x01)
+[![](https://img.shields.io/github/followers/mr-vill4in?color=gray&label=%40tamjid0x01&logo=GitHub)](https://github.com/tamjid0x01)
+[![](https://img.shields.io/github/stars/tamjid0x01?color=gray&logo=GitHub)](https://github.com/mr-vill4in)
+
+
+   
+[![@mr-vill4in's Holopin board](https://holopin.io/api/user/board?user=mr-vill4in)](https://holopin.io/@mr-vill4in)
