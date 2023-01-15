@@ -46,10 +46,9 @@ func main(){
 </p>
 
 
-[![](https://img.shields.io/twitter/follow/mr_vill4in?color=gray&logo=twitter&label=%40tamjid0x01&style=flat)](https://twitter.com/mr-vill4in)
-[![](https://img.shields.io/github/followers/mr-vill4in?color=gray&label=%40tamjid0x01&logo=GitHub)](https://github.com/mr-vill4in)
-[![](https://img.shields.io/github/stars/tamjid0x01?color=gray&logo=GitHub)](https://github.com/mr-vill4in)
+[![](https://img.shields.io/twitter/follow/mr_vill4in?color=gray&logo=twitter&label=%40mr-vill4in&style=flat)](https://twitter.com/mr-vill4in)
+[![](https://img.shields.io/github/followers/mr-vill4in?color=gray&label=%40mr-vill4in&logo=GitHub)](https://github.com/mr-vill4in)
+[![](https://img.shields.io/github/stars/mr-vill4in?color=gray&logo=GitHub)](https://github.com/mr-vill4in)
 
 
-   
-[![@mr-vill4in's Holopin board](https://holopin.io/api/user/board?user=mr-vill4in)](https://holopin.io/@mr-vill4in)
+
