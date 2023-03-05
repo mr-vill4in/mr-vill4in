@@ -1,7 +1,7 @@
 <h2> Hi, I'm Amir Hamza</h2>
 <img align='right' src="https://github-readme-stats-sigma-five.vercel.app/api?username=mr-vill4in&show_icons=true&theme=radical" width="380">
 <p><em>  H4cker & Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br><br>
-   I Love hacking for world more secure. <3
+   I Love hacking for more secure the world. <3
   </em></p>
 
 <br>
