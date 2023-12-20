@@ -35,11 +35,6 @@ func main(){
  <img src="https://github-profile-trophy.vercel.app/?username=mr-vill4in&theme=flat" alt="mr-vill4in" />
 </p>
 
-<p align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-vill4in&layout=compact&langs_count=8&theme=omni&hide_border=true" />
-</a>
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-vill4in&theme=omni&hide_border=true" alt="mr-vill4in" />
